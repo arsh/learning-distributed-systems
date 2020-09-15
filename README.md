@@ -63,6 +63,10 @@ https://www.amazon.com/Elements-Distributed-Computing-Vijay-Garg/dp/8126551755
 
 https://www.amazon.com/Mathematical-Tools-Data-Mining-Combinatorics/dp/1447164067
 
+## Designing Distributed Control Systems: A Pattern Language Approach
+
+https://www.amazon.com/Designing-Distributed-Control-Systems-Language/dp/1118694155
+
 # collections
 
 ## awesome-distributed-systems
