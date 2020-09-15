@@ -85,12 +85,13 @@ http://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
 
 * https://loveforprogramming.quora.com/Distributed-Systems-Part-3-Managing-Anti-Entropy-using-Merkle-Trees
 
-## best paper qwards in computer science (since 1996)
+## best papers in computer science (since 1996)
+
 https://jeffhuang.com/best_paper_awards/
 
 # courses
 
-## principles of Distributed Computing
+## principles of distributed computing
 
 https://disco.ethz.ch/courses/podc_allstars/
 
@@ -115,6 +116,10 @@ http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html
 ## high scalability
 
 http://highscalability.com/all-time-favorites/
+
+## marc brooker
+
+https://brooker.co.za/blog/
 
 # papers
 
