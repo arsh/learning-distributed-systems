@@ -6,7 +6,7 @@ List to all papers, books, blogs, articles, repos that I've come across while st
 
 ### acid
 
-These properties come up very often when reading about distributed systems. See https://en.wikipedia.org/wiki/ACID
+https://en.wikipedia.org/wiki/ACID
 
 ### paxos
 
