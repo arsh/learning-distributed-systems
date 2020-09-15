@@ -112,6 +112,10 @@ http://afeinberg.github.io/2011/06/17/replication-atomicity-and-order-in-distrib
 
 http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html
 
+## high scalability
+
+http://highscalability.com/all-time-favorites/
+
 # papers
 
 ## The Implementation of Reliable Distributed Multiprocess Systems
