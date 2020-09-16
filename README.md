@@ -44,6 +44,14 @@ https://pdos.csail.mit.edu/6.824/schedule.html
 
 # books
 
+### guide to reliable distributed systems: building high-assurance applications and cloud-hosted services 
+
+https://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154/
+
+### distributed computing through combinatorial topology
+
+https://www.amazon.com/Distributed-Computing-Through-Combinatorial-Topology/dp/0124045782
+
 ### specifying systems
 
 https://www.amazon.com/Specifying-Systems-Language-Hardware-Engineers/dp/032114306X
@@ -82,7 +90,23 @@ http://highscalability.com/all-time-favorites/
 
 https://brooker.co.za/blog/
 
+### notes on distributed systems for young bloods
+
+https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+
 # papers
+
+### how to build a highly available system using consensus 
+
+http://research.microsoft.com/en-us/um/people/blampson/58-Consensus/Acrobat.pdf
+
+### distributed computing meets game theory: combining insights from two fields
+
+http://www.cs.utexas.edu/~lorenzo/papers/Abraham11Distributed.pdf
+
+### impossibility of distributed consensus with one faulty process 
+
+http://macs.citadel.edu/rudolphg/csci604/ImpossibilityofConsensus.pdf
 
 ### the implementation of reliable distributed multiprocess systems
 
@@ -91,6 +115,22 @@ https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Implementation
 ### amazon aurora: design considerations for high hhroughput cloud-native relational databases
 
 https://pdos.csail.mit.edu/6.824/papers/aurora.pdf
+
+### dynamo: amazon’s highly available key-value store
+
+https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+
+### cassandra - a decentralized structured storage system
+
+https://research.cs.cornell.edu/ladis2009/papers/lakshman-ladis2009.pdf
+
+### the chubby lock service for loosely-coupled distributed systems
+
+http://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf
+
+### zookeeper: wait-free coordination for internet-scale systems
+
+https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf
 
 # topics
 
