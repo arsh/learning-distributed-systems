@@ -74,6 +74,10 @@ https://www.amazon.com/Designing-Distributed-Control-Systems-Language/dp/1118694
 
 # blogs
 
+### martin kleppmann
+
+https://martin.kleppmann.com/
+
 ### replication, atomicity and order in distributed systems
 
 http://afeinberg.github.io/2011/06/17/replication-atomicity-and-order-in-distributed-systems.html
