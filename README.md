@@ -2,6 +2,96 @@
 
 List to all papers, books, blogs, articles, repos that I've come across while studying distributed systems. This includes stuff I haven't read yet.
 
+# collections
+
+### distributed systems theory for the distributed systems engineer
+
+https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/
+
+### awesome-distributed-systems
+
+https://github.com/arsh/awesome-distributed-systems
+
+### seminal papers in distributed systems (quora)
+
+http://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
+
+### distributed systems (quora)
+
+* https://loveforprogramming.quora.com/Distributed-Systems-Part-1-A-peek-into-consistent-hashing
+
+* https://loveforprogramming.quora.com/Distributed-Systems-Part-2-Consistency-versus-Availability-A-Pragmatic-Example
+
+* https://loveforprogramming.quora.com/Distributed-Systems-Part-3-Managing-Anti-Entropy-using-Merkle-Trees
+
+### best papers in computer science (since 1996)
+
+https://jeffhuang.com/best_paper_awards/
+
+# courses
+
+### principles of distributed computing
+
+https://disco.ethz.ch/courses/podc_allstars/
+
+### pmp distributed systems (university of washington)
+
+http://courses.cs.washington.edu/courses/cse552/07sp/
+
+### MIT distributed systems
+
+https://pdos.csail.mit.edu/6.824/schedule.html
+
+# books
+
+### specifying systems
+
+https://www.amazon.com/Specifying-Systems-Language-Hardware-Engineers/dp/032114306X
+
+### designing data-intensive applications: the big ideas behind reliable, scalable, and maintainable systems
+
+https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
+
+### elements of distributed computing
+
+https://www.amazon.com/Elements-Distributed-Computing-Vijay-Garg/dp/8126551755
+
+### mathematical tools for data mining: set theory, partial orders, combinatorics
+
+https://www.amazon.com/Mathematical-Tools-Data-Mining-Combinatorics/dp/1447164067
+
+### designing distributed control systems: a pattern language approach
+
+https://www.amazon.com/Designing-Distributed-Control-Systems-Language/dp/1118694155
+
+# blogs
+
+### replication, atomicity and order in distributed systems
+
+http://afeinberg.github.io/2011/06/17/replication-atomicity-and-order-in-distributed-systems.html
+
+### fault tolerance in a high volume, distributed system
+
+http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html
+
+### high scalability
+
+http://highscalability.com/all-time-favorites/
+
+### marc brooker
+
+https://brooker.co.za/blog/
+
+# papers
+
+### the implementation of reliable distributed multiprocess systems
+
+https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Implementation-of-Reliable-Distributed-Multiprocess-Systems.pdf
+
+### amazon aurora: design considerations for high hhroughput cloud-native relational databases
+
+https://pdos.csail.mit.edu/6.824/papers/aurora.pdf
+
 # topics
 
 ### acid
@@ -49,88 +139,3 @@ https://en.wikipedia.org/wiki/Gossip_protocol
 
 https://github.com/Netflix/Hystrix/wiki
 
-# books
-
-### specifying systems
-
-https://www.amazon.com/Specifying-Systems-Language-Hardware-Engineers/dp/032114306X
-
-### designing data-intensive applications: the big ideas behind reliable, scalable, and maintainable systems
-
-https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
-
-### elements of distributed computing
-
-https://www.amazon.com/Elements-Distributed-Computing-Vijay-Garg/dp/8126551755
-
-### mathematical tools for data mining: set theory, partial orders, combinatorics
-
-https://www.amazon.com/Mathematical-Tools-Data-Mining-Combinatorics/dp/1447164067
-
-### designing distributed control systems: a pattern language approach
-
-https://www.amazon.com/Designing-Distributed-Control-Systems-Language/dp/1118694155
-
-# collections
-
-### awesome-distributed-systems
-
-https://github.com/arsh/awesome-distributed-systems
-
-### seminal papers in distributed systems (quora)
-
-http://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
-
-### distributed systems (quora)
-
-* https://loveforprogramming.quora.com/Distributed-Systems-Part-1-A-peek-into-consistent-hashing
-
-* https://loveforprogramming.quora.com/Distributed-Systems-Part-2-Consistency-versus-Availability-A-Pragmatic-Example
-
-* https://loveforprogramming.quora.com/Distributed-Systems-Part-3-Managing-Anti-Entropy-using-Merkle-Trees
-
-### best papers in computer science (since 1996)
-
-https://jeffhuang.com/best_paper_awards/
-
-# courses
-
-### principles of distributed computing
-
-https://disco.ethz.ch/courses/podc_allstars/
-
-### pmp distributed systems (university of washington)
-
-http://courses.cs.washington.edu/courses/cse552/07sp/
-
-### MIT distributed systems
-
-https://pdos.csail.mit.edu/6.824/schedule.html
-
-# blogs
-
-### replication, atomicity and order in distributed systems
-
-http://afeinberg.github.io/2011/06/17/replication-atomicity-and-order-in-distributed-systems.html
-
-### fault Tolerance in a High Volume, Distributed System
-
-http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html
-
-### high scalability
-
-http://highscalability.com/all-time-favorites/
-
-### marc brooker
-
-https://brooker.co.za/blog/
-
-# papers
-
-### the implementation of reliable distributed multiprocess systems
-
-https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Implementation-of-Reliable-Distributed-Multiprocess-Systems.pdf
-
-### amazon aurora: design considerations for high hhroughput cloud-native relational databases
-
-https://pdos.csail.mit.edu/6.824/papers/aurora.pdf
