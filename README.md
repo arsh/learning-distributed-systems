@@ -78,6 +78,10 @@ https://www.amazon.com/Designing-Distributed-Control-Systems-Language/dp/1118694
 
 # blogs
 
+### werner vogels
+
+https://www.allthingsdistributed.com/
+
 ### martin kleppmann
 
 https://martin.kleppmann.com/
@@ -103,6 +107,10 @@ https://brooker.co.za/blog/
 https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
 
 # papers
+
+### kafka: a distributed messaging system for log processing
+
+http://notes.stephenholiday.com/Kafka.pdf
 
 ### how to build a highly available system using consensus 
 
