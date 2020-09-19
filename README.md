@@ -28,6 +28,10 @@ http://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
 
 https://jeffhuang.com/best_paper_awards/
 
+### amazon builder's library
+
+https://aws.amazon.com/builders-library/
+
 # courses
 
 ### principles of distributed computing
