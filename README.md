@@ -10,7 +10,7 @@ https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-t
 
 ### awesome-distributed-systems
 
-https://github.com/arsh/awesome-distributed-systems
+https://github.com/theanalyst/awesome-distributed-systems
 
 ### seminal papers in distributed systems (quora)
 
