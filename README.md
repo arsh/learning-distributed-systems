@@ -12,7 +12,7 @@ https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-t
 
 https://github.com/arsh/awesome-distributed-systems
 
-### James Hamilton
+### james hamilton
 
 https://perspectives.mvdirona.com/
 
