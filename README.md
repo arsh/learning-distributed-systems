@@ -12,10 +12,6 @@ https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-t
 
 https://github.com/arsh/awesome-distributed-systems
 
-### james hamilton
-
-https://perspectives.mvdirona.com/
-
 ### seminal papers in distributed systems (quora)
 
 http://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
@@ -77,6 +73,10 @@ https://www.amazon.com/Mathematical-Tools-Data-Mining-Combinatorics/dp/144716406
 https://www.amazon.com/Designing-Distributed-Control-Systems-Language/dp/1118694155
 
 # blogs
+
+### james hamilton
+
+https://perspectives.mvdirona.com/
 
 ### werner vogels
 
