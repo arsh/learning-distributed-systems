@@ -32,6 +32,11 @@ https://jeffhuang.com/best_paper_awards/
 
 https://aws.amazon.com/builders-library/
 
+### papers we love
+
+https://github.com/papers-we-love/papers-we-love
+https://paperswelove.org/
+
 # courses
 
 ### principles of distributed computing
