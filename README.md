@@ -118,6 +118,14 @@ https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-you
 
 # papers
 
+### building linkedin’s real-time activity data pipeline
+
+http://sites.computer.org/debull/A12june/pipeline.pdf
+
+### building a replicated logging system with apache kafka
+
+https://dl.acm.org/doi/10.14778/2824032.2824063
+
 ### kafka: a distributed messaging system for log processing
 
 http://notes.stephenholiday.com/Kafka.pdf
