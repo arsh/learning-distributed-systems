@@ -118,6 +118,26 @@ https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-you
 
 # papers
 
+### on brewing fresh espresso: linkedin’s distributed data serving platform
+
+https://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/p1135-qiao.pdf
+
+### the case for ramclouds: scalable high-performance storage entirely in dram
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.872&rep=rep1&type=pdf
+
+### in search of an understandable consensus algorithm
+
+https://raft.github.io/raft.pdf
+
+### pacifica: replication in log-based distributed storage systems
+
+https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/tr-2008-25.pdf
+
+### corfu: a distributed shared log
+
+https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/a10-balakrishnan.pdf
+
 ### building linkedin’s real-time activity data pipeline
 
 http://sites.computer.org/debull/A12june/pipeline.pdf
