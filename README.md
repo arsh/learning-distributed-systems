@@ -116,7 +116,27 @@ https://brooker.co.za/blog/
 
 https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
 
+### facebook scribe
+
+https://engineering.fb.com/data-infrastructure/scribe/
+
 # papers
+
+### dapper, a large-scale distributed systems tracing infrastructure
+
+https://research.google/pubs/pub36356/
+
+### chukwa: a system for reliable large-scale log collection
+
+https://www.usenix.org/legacy/event/lisa10/tech/full_papers/Rabkin.pdf
+
+### latency lags bandwith
+
+https://dl.acm.org/doi/10.1145/1022594.1022596
+
+### apache hadoop goes realtime at facebook
+
+https://research.fb.com/wp-content/uploads/2011/06/apache-hadoop-goes-realtime-at-facebook.pdf?
 
 ### on brewing fresh espresso: linkedin’s distributed data serving platform
 
