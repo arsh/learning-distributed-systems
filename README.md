@@ -54,6 +54,10 @@ https://pdos.csail.mit.edu/6.824/schedule.html
 
 # books
 
+### distributed systems
+
+https://www.amazon.com/Distributed-Systems-2nd-Sape-Mullender/dp/0201624273
+
 ### guide to reliable distributed systems: building high-assurance applications and cloud-hosted services 
 
 https://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154/
@@ -121,6 +125,37 @@ https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-you
 https://engineering.fb.com/data-infrastructure/scribe/
 
 # papers
+
+### implementing fault-tolerant services using the state machine approach: a tutorial 
+
+https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf
+
+### a simple totally ordered broadcast protocol
+
+https://www.datadoghq.com/pdf/zab.totally-ordered-broadcast-protocol.2008.pdf
+
+### linearizability: a correctness condition for concurrent objects 
+
+https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf
+
+### wait-free synchronization
+
+https://dl.acm.org/doi/10.1145/114005.102808
+
+https://cs.brown.edu/~mph/Herlihy91/p124-herlihy.pdf
+
+
+### the dangers of replication and a solution
+
+https://dsf.berkeley.edu/cs286/papers/dangers-sigmod1996.pdf
+
+### practical byzantine fault tolerance and proactive recovery
+
+http://www.pmg.csail.mit.edu/papers/bft-tocs.pdf
+
+### fault-scalable byzantine fault-tolerant services
+
+https://www.pdl.cmu.edu/PDL-FTP/PASIS/sosp05.pdf
 
 ### dapper, a large-scale distributed systems tracing infrastructure
 
