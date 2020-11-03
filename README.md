@@ -130,6 +130,18 @@ https://engineering.fb.com/data-infrastructure/scribe/
 
 # papers
 
+### xen and the art of virtualization
+
+https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf
+
+### a hundred impossibility proofs for distributed computing
+
+https://apps.dtic.mil/dtic/tr/fulltext/u2/a216391.pdf
+
+### the power of two random choices: a survery of techniques and results
+
+http://www.eecs.harvard.edu/~michaelm/NEWWORK/postscripts/twosurvey.pdf
+
 ### implementing fault-tolerant services using the state machine approach: a tutorial 
 
 https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf
