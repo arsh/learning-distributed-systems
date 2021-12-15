@@ -42,6 +42,12 @@ https://paperswelove.org/
 
 https://timilearning.com/
 
+### the architecture of open source applications
+
+Perhaps a little bit off-topic but still valuable.
+
+http://www.aosabook.org/en/
+
 # courses
 
 ### principles of distributed computing
