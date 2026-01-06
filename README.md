@@ -50,6 +50,10 @@ http://www.aosabook.org/en/
 
 # courses
 
+### MIT 6.5840: Distributed Systems
+
+https://pdos.csail.mit.edu/6.824/index.html
+
 ### principles of distributed computing
 
 https://disco.ethz.ch/courses/podc_allstars/
