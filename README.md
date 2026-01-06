@@ -18,7 +18,7 @@ http://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why
 
 ### distributed systems (quora)
 
-* https://loveforprogramming.quora.com/Distributed-Systems-Part-1-A-peek-into-consistent-hashing
+* https://loveforprogramming.quora.com/Distributed-Systems-Part-1-A-peek-into-consistent-hashingƒMIT
 
 * https://loveforprogramming.quora.com/Distributed-Systems-Part-2-Consistency-versus-Availability-A-Pragmatic-Example
 
@@ -50,7 +50,7 @@ http://www.aosabook.org/en/
 
 # courses
 
-### MIT 6.5840: Distributed Systems
+### MIT Distributed Systems
 
 https://pdos.csail.mit.edu/6.824/index.html
 
@@ -61,10 +61,6 @@ https://disco.ethz.ch/courses/podc_allstars/
 ### pmp distributed systems (university of washington)
 
 http://courses.cs.washington.edu/courses/cse552/07sp/
-
-### MIT distributed systems
-
-https://pdos.csail.mit.edu/6.824/schedule.html
 
 # books
 
