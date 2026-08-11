@@ -1,6 +1,8 @@
+
+
 # learning-distributed-systems
 
-List to all papers, books, blogs, articles, repos that I come across while studying distributed systems.
+List of all papers, books, blogs, articles, repos that I come across while studying distributed systems.
 
 # collections
 
@@ -309,4 +311,3 @@ https://en.wikipedia.org/wiki/Gossip_protocol
 ### hystrix
 
 https://github.com/Netflix/Hystrix/wiki
-
